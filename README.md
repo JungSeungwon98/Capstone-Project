@@ -9,22 +9,22 @@
   – [논문 보기 (한국감성과학회)](https://koses.or.kr/html/sub02_02.asp)
 
 # 🛠 Tools & Libraries
-Programming Language: Python 3
+- Programming Language: Python 3
 Data Processing:
-- pandas: CSV 파일 로딩 및 데이터프레임 처리
-- numpy: 수치 계산 및 배열 연산
+  – pandas: CSV 파일 로딩 및 데이터프레임 처리
+  – numpy: 수치 계산 및 배열 연산
 - Visualization:
-- matplotlib: 센서 데이터 시각화 (X, Y, Z 축 변화 확인)
-Machine Learning:
-- scikit-learn:
-- SGDClassifier: 자세 분류 모델 학습 (선형 분류기)
-- cross_val_predict, confusion_matrix, f1_score: 모델 성능 평가
-- LabelEncoder: 범주형 라벨 인코딩
-Sensor Hardware:
-- WitMotion 센서 (가속도, 자이로, 지자기 센서 통합)
-Data Collection Environment:
-- 센서 데이터를 실시간으로 수집 후 .csv 파일로 저장
-- 여러 실험 참가자로부터 수집된 다양한 자세 데이터 포함
+  – matplotlib: 센서 데이터 시각화 (X, Y, Z 축 변화 확인)
+- Machine Learning:
+  – scikit-learn:
+    – SGDClassifier: 자세 분류 모델 학습 (선형 분류기)
+    – cross_val_predict, confusion_matrix, f1_score: 모델 성능 평가
+    – LabelEncoder: 범주형 라벨 인코딩
+- Sensor Hardware:
+  – WitMotion 센서 (가속도, 자이로, 지자기 센서 통합)
+- Data Collection Environment:
+  – 센서 데이터를 실시간으로 수집 후 .csv 파일로 저장
+  – 여러 실험 참가자로부터 수집된 다양한 자세 데이터 포함
 
 ## 느낀 점과 아쉬웠던 점
 
